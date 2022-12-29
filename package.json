@@ -1,0 +1,20 @@
+{
+    "name": "test_w",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dlehdrb128/test_w.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dlehdrb128/test_w/issues"
+    },
+    "homepage": "https://github.com/dlehdrb128/test_w#readme"
+}
